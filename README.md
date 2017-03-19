@@ -18,4 +18,4 @@ npm start
 ``` bash
 ng serve --port=4000
 ```
-下个案例[hero-webapi](https://github.com/ReySun/ng2-hero-webapi)，将启用angular-in-memory-web-api代替mock的数据，使用客户端模拟服务器数据
+下个案例[ng2-hero-webapi](https://github.com/ReySun/ng2-hero-webapi)，将启用angular-in-memory-web-api代替mock的数据，使用客户端模拟服务器数据
